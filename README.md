@@ -12,7 +12,7 @@ I would put the thinking emoji there, but I can't find the effort to open this o
 I've read you can do pretty cool lists here. So here are some lists :
 
 * My Personal Website [34.194.108.205](http://34.194.108.205/)
-* My Personal Website now with a URL [schwastuff.me](www.schwastuff.me)
+* My Personal Website now with a URL [schwastuff.me](http://schwastuff.me/)
 * My Github Page [Megastardaboss](https://github.com/Megastardaboss)
 
 That's pretty good! 👍
